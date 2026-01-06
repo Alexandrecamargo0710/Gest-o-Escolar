@@ -1,0 +1,16 @@
+# 📚 Gestão Escolar
+
+Sistema simples de **Gestão Escolar** desenvolvido em **Python**, com foco em aprendizado de lógica de programação e organização de dados.  
+O projeto permite cadastrar alunos, adicionar notas e visualizar informações acadêmicas de forma prática via terminal.
+
+---
+
+## 🚀 Funcionalidades
+
+- ✅ Cadastro de alunos  
+- ✅ Registro de notas  
+- ✅ Listagem de alunos cadastrados  
+- ✅ Visualização das notas dos alunos  
+- ✅ Interface simples via terminal (CLI)
+
+---
